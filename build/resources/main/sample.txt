@@ -1,0 +1,6 @@
+This is the line from sample.txt numbered 1
+This is the line from sample.txt numbered 2
+This is the line from sample.txt numbered 3
+This is the line from sample.txt numbered 4
+This is the line from sample.txt numbered 5
+This is the line from sample.txt numbered 6
